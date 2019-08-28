@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Thuy Dao Xuan\Desktop\Lightoxs\Lightoxs Project\Lightoxs\Lightoxs\LightTox\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Home/Index.cshtml">
+      <publishTime>12/07/2018 16:06:08</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Home/Login.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/UploadLayout.cshtml">
+      <publishTime>09/06/2018 07:58:44</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/_Layout.cshtml">
+      <publishTime>12/06/2018 16:30:49</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/_ViewStart.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/DoiTac/DoiTac_Details.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/DoiTac/Index.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/Home/Index.cshtml">
+      <publishTime>12/06/2018 15:48:56</publishTime>
+    </File>
+    <File Include="Areas/User/Views/LienHe/Index.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/Innojector.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/Lightoxs.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/LightoxsDetails.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/Purience.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/PurienceDetails.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/Vital.cshtml">
+      <publishTime>12/06/2018 22:27:18</publishTime>
+    </File>
+    <File Include="Areas/User/Views/SanPham/VitalDetails.cshtml">
+      <publishTime>12/06/2018 14:58:31</publishTime>
+    </File>
+    <File Include="Areas/User/Views/Shared/_Layout.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/Shared/_LayoutHomepage.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/AnPhamKhoaHoc.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/AnPhamKhoaHoc_Details.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/CauHoiThuongGap.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/ChamSocSacDep.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/ChamSocSacDep_Details.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/EventsWorkshop.cshtml">
+      <publishTime>12/07/2018 15:42:26</publishTime>
+    </File>
+    <File Include="Areas/User/Views/TinTuc/EventsWorkshop_Details.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/web.config">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Areas/User/Views/_ViewStart.cshtml">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/Lightoxs.dll">
+      <publishTime>12/07/2018 17:01:37</publishTime>
+    </File>
+    <File Include="bin/Lightoxs.pdb">
+      <publishTime>12/07/2018 17:01:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>12/06/2018 13:23:17</publishTime>
+    </File>
+    <File Include="Content/Admin/animate.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/bootstrap.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/calendar/fullcalendar.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/calendar/fullcalendar.print.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/dropzone/dropzone.css">
+      <publishTime>12/06/2018 15:14:10</publishTime>
+    </File>
+    <File Include="Content/Admin/educate-custon-icon.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/font-awesome.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/educate-icon.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/educate-icon.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/educate-icon.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/fontawesome-webfont.eot">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/fontawesome-webfont.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/fontawesome-webfont.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/fontawesome-webfont.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/fontawesome-webfont.woff2">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/FontAwesome.otf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/form/all-type-forms.css">
+      <publishTime>12/06/2018 15:14:09</publishTime>
+    </File>
+    <File Include="Content/Admin/form/themesaller-forms.css">
+      <publishTime>12/06/2018 15:14:10</publishTime>
+    </File>
+    <File Include="Content/Admin/main.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/meanmenu.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/metisMenu/metisMenu-vertical.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/metisMenu/metisMenu.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/morrisjs/morris.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/normalize.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/notifications/Lobibox.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/notifications/notifications.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/owl.carousel.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/owl.theme.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/owl.transitions.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/responsive.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/scrollbar/jquery.mCustomScrollbar.min.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/style.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/summernote/fonts/summernote.eot">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/summernote/fonts/summernote.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/summernote/fonts/summernote.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Admin/summernote/summernote.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/animate.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/AnPham.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/ANZCore.css">
+      <publishTime>12/06/2018 22:27:18</publishTime>
+    </File>
+    <File Include="Content/certification/Viet.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/An.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/bao_post1.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/bao_post2.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/bao_post3.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/bao_post4.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/thien.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/thuy.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/chamsocsacdep/Viet.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/DoiTac.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/doitac/108.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/doitac/TayNam.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/doitac/XuanHuong.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Events&amp;Workshop.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/eventsworkshop/An.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/eventsworkshop/Viet.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/faqs/Viet.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/font-contact.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/educate-icon.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/educate-icon.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/educate-icon.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.eot">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff2">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/FontAwesome.otf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/ImageSlide.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/lightoxs.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/lightoxsOff.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/NTCore.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/swiper.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/upload.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Content/VideoSlide.css">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_1.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_2.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_3.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_4.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_5.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/AnPhamKhoaHoc/APKH_6.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_1.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_10.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_11.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_12.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_13.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_14.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_15.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_16.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_17.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_18.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_19.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_2.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_20.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_3.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_4.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_5.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_6.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_7.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_8.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/ChamSocSacDep/CSSD_9.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/DoiTac/BV108.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/DoiTac/BVBaoSon.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/DoiTac/Mekong.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/DoiTac/TMVTayNam.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/DoiTac/TMVXuanHuong.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_1.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_2.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_3.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_4.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_5.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_6.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="File/EventWorkshop/Event_7.txt">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/01.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/0819fb80f43c480677c0385b060aebd6.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/6lo.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/blog-details/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/contact/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/contact/2.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/contact/3.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/contact/4.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/courses/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/courses/2.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/courses/3.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/cropper/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/Employee/admin.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/favicon.ico">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/green1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/logo/logo.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/logo/logosn.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/2.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/3.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/4.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/5.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/notification/6.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/book-1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/book-2.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/book-3.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/book-4.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/pro4.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/product/profile-bg.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/profile/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/student/1.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/student/2.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/student/3.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Admin/student/4.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/backgroundlightoxs.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/background_inno.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/background_main.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/background_purience.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/background_readmore_purience.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/backtotop.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/bg-cust.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/bg-innojector.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/bgset_04.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/bgset_04.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/border.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/Breadcrumb/BC_DUOCPHAM.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/btn_top.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/5.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/6.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer5.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/certification/cer6.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_5.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_6.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/An_post_7.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/AsianLightoxModels.PNG">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/lightox.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/lightoxLuxury.PNG">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/lightoxModels.PNG">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/medibless.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/medibless.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/purience.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/uuDiem1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/uuDiem2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/uuDIem3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/baobao/vital.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/faqs.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/Hinh2_1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/purrience_cream.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/purrience_mask.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_1.1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_1.2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_1.3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_1.4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_4.1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_4.2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_4.3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thien_tintuc_4.4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/thuy.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/TinTuc_Thuy_TT3_1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/TinTuc_Thuy_TT3_2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/TinTuc_Thuy_TT3_3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/TinTuc_Thuy_TT3_4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/Viet1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/Viet_4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/Viet_4_1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/Viet_4_2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/chamsocsacdep/wall1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/con02_img2_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_0.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/108_logo.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/BS_0.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/BS_1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/BS_2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/BS_3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/mk1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/mk2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/mk3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/mk4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/mk5.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TMVTayNam.jpg">
+      <publishTime>12/07/2018 16:58:03</publishTime>
+    </File>
+    <File Include="Images/doitac/TN1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN10.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN5.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN6.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN7.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN8.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/TN9.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/tnam.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH10.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH11.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH12.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH13.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH14.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH5.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH6.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH7.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH8.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/doitac/XH9.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/DTInno.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_10.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_4.png">
+      <publishTime>12/07/2018 16:46:44</publishTime>
+    </File>
+    <File Include="Images/DT_an_5.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_6.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_7.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_8.jpg">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/DT_an_9.png">
+      <publishTime>12/07/2018 16:48:37</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event1_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event1_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event2_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event3_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event3_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/event3_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_2.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_3.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_4.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_5.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_6.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_7.png">
+      <publishTime>12/06/2018 13:23:10</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_10.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_11.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_12.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_13.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_14.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_15.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_16.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_17.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_An_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_6.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_7.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_8.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/img_evt_an_9.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/eventsworkshop/ing_evt_an_5.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/faqs.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/features.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/folder.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/folderi.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/ImageLT.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/img1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_badgirl.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_daudakim.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_daukhongkim.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_evt_1.png">
+      <publishTime>11/21/2018 13:03:50</publishTime>
+    </File>
+    <File Include="Images/img_evt_2.png">
+      <publishTime>11/21/2018 13:03:50</publishTime>
+    </File>
+    <File Include="Images/img_evt_3.png">
+      <publishTime>11/21/2018 13:03:50</publishTime>
+    </File>
+    <File Include="Images/img_evt_4.png">
+      <publishTime>11/21/2018 13:03:51</publishTime>
+    </File>
+    <File Include="Images/img_evt_5.png">
+      <publishTime>11/21/2018 13:03:51</publishTime>
+    </File>
+    <File Include="Images/img_evt_6.png">
+      <publishTime>11/21/2018 13:03:51</publishTime>
+    </File>
+    <File Include="Images/img_evt_7.png">
+      <publishTime>11/21/2018 13:03:51</publishTime>
+    </File>
+    <File Include="Images/img_pu_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_5.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_6.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_index.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/img_pu_nen.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/innojector.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_girl.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_logo.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH4.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH5.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/inno_MH6.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/kem.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/background.gif">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/botulinum1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/botulinum2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/botulinum3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_obj1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_obj2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_obj3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_obj4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_obj5.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_pdt1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_pdt2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/brandSection4_pdt3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/DoiTuong.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/LightoxBox.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/lightoxHoa.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/Lightoxs1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/LightoxsBackGround.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/lightoxsNghieng.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/lightoxStraight.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/LoaHoa.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/medical1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/medical2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/medical3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/model.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/mpa.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/MTD.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/productView.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/round1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/round2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/round3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/round4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/step1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/step2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/step3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightox/step4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lightoxs_logo.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/logo 1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/logo_inno.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/logo_web.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lokem.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/lotion1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/mainVisual2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/mainVisual3.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/mask.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/mat na.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/NamInno_1.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/NamInno_2.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/NamInno_3.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/NamInno_4.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/NamInno_5.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/NamInno_6.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/nen.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/phun_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/phun_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/phun_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/phun_4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_01.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_02.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_lightoxs.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/product_logo.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/pu_img_4.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/readmore_purience.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/readmore_purience1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/three_pu.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vet_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vet_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vet_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital-avatar.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital-barier.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital1.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital2.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/Vitalbarrier.png">
+      <publishTime>12/06/2018 13:23:14</publishTime>
+    </File>
+    <File Include="Images/vitalbarrier1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vitalbarrier_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vitalmodel.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital_1.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital_2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital_3.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vital_banner.jpg">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vt.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Images/vt_model2.png">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Model/AnzamtechModel.edmx.diagram">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/bootstrap.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/calendar/fullcalendar-active.js">
+      <publishTime>12/06/2018 15:20:38</publishTime>
+    </File>
+    <File Include="Scripts/Admin/calendar/fullcalendar.min.js">
+      <publishTime>12/06/2018 15:20:38</publishTime>
+    </File>
+    <File Include="Scripts/Admin/calendar/moment.min.js">
+      <publishTime>12/06/2018 15:20:38</publishTime>
+    </File>
+    <File Include="Scripts/Admin/datepicker/datepicker-active.js">
+      <publishTime>12/06/2018 15:56:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/datepicker/jquery-ui.min.js">
+      <publishTime>12/06/2018 16:10:51</publishTime>
+    </File>
+    <File Include="Scripts/Admin/dropzone/dropzone.js">
+      <publishTime>12/06/2018 15:21:56</publishTime>
+    </File>
+    <File Include="Scripts/Admin/form-validation/form-active.js">
+      <publishTime>12/06/2018 15:22:10</publishTime>
+    </File>
+    <File Include="Scripts/Admin/form-validation/jquery.form.min.js">
+      <publishTime>12/06/2018 15:22:10</publishTime>
+    </File>
+    <File Include="Scripts/Admin/form-validation/jquery.validate.min.js">
+      <publishTime>12/06/2018 15:22:10</publishTime>
+    </File>
+    <File Include="Scripts/Admin/jquery-price-slider.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/jquery.maskedinput.min.js">
+      <publishTime>12/06/2018 15:21:18</publishTime>
+    </File>
+    <File Include="Scripts/Admin/jquery.meanmenu.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/jquery.scrollUp.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/jquery.sticky.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/main.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/masking-active.js">
+      <publishTime>12/06/2018 15:21:18</publishTime>
+    </File>
+    <File Include="Scripts/Admin/metisMenu/metisMenu-active.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/metisMenu/metisMenu.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/notifications/Lobibox.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/notifications/notification-active.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/owl.carousel.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/plugins.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/scrollbar/jquery.mCustomScrollbar.concat.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/scrollbar/mCustomScrollbar-active.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/sparkline/jquery.charts-sparkline.js">
+      <publishTime>12/06/2018 15:18:24</publishTime>
+    </File>
+    <File Include="Scripts/Admin/sparkline/jquery.sparkline.min.js">
+      <publishTime>12/06/2018 15:18:25</publishTime>
+    </File>
+    <File Include="Scripts/Admin/sparkline/sparkline-active.js">
+      <publishTime>12/06/2018 15:18:25</publishTime>
+    </File>
+    <File Include="Scripts/Admin/summernote/summernote-active.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/summernote/summernote.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/tab.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/vendor/jquery-1.12.4.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/vendor/modernizr-2.8.3.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/Admin/wow.min.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/AnPham.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/ANZCore.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/certification/AnPham.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/custom.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/DoiTac.js">
+      <publishTime>12/06/2018 15:48:48</publishTime>
+    </File>
+    <File Include="Scripts/doitac/BaoSon.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/doitac/jsvideo_An.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/doitac/slideshow.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/doitac/Viet.js">
+      <publishTime>12/06/2018 13:23:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.3.min.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/paritcals.json">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/slider.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/swiper.min.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/tintuc.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Scripts/wow.min.js">
+      <publishTime>12/06/2018 13:23:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/07/2018 17:01:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
